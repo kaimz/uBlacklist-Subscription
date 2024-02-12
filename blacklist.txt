@@ -1,3 +1,10 @@
+*://*.csdn.net/*
+*://*.baidu.com/*
+*://*.sogou.com/*
+*://*.chinawriter.com.cn/*
+*://*.thepaper.cn/*
+*://*.sina.com.cn/*
+
 *://*.021east.com/*
 *://*.0714news.com/*
 *://*.1007171.com/*
