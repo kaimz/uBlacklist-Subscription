@@ -54,6 +54,7 @@
 *://*.a7la-home.com/*
 *://*.aalahty.cn/*
 *://*.actualidadiphone.com/*
+*://*.adoncn.com/*
 *://*.aes-chile.cl/*
 *://*.aesml.com/*
 *://*.aifengbei.com/*
@@ -71,6 +72,7 @@
 *://*.anche.cn/*
 *://*.androidcookie.com/*
 *://*.answers.gethuman.com/*
+*://*.anyviewer.com/*
 *://*.apkyu.com/*
 *://*.appike.com/*
 *://*.appspot.com/*
@@ -115,6 +117,7 @@
 *://*.ccvic.com/*
 *://*.centroricercainsubria.it/*
 *://*.cetturismo.cl/*
+*://*.ceyicm.cn/*
 *://*.chattaboo.com/*
 *://*.chcpd.com/*
 *://*.china.cn/*
@@ -151,6 +154,7 @@
 *://*.dacongyun.com/*
 *://*.dadighost.com/*
 *://*.dafuhua.com/*
+*://*.daimafans.com/*
 *://*.daimaqa.com/*
 *://*.daixieessay.com/*
 *://*.daka111.cn/*
@@ -189,6 +193,7 @@
 *://*.exotips.com/*
 *://*.express.co.uk/*
 *://*.extrabux.com/*
+*://*.fastestvpn.com/*
 *://*.fhsas.com/*
 *://*.fofa.so/*
 *://*.fonedog.com/*
@@ -267,6 +272,7 @@
 *://*.imacso.com/*
 *://*.imaycon.com/*
 *://*.imooc.com/wenda/*
+*://*.informer.com/*
 *://*.ios.im/*
 *://*.iosvm.com/*
 *://*.iqingyan.cn/*
@@ -291,6 +297,7 @@
 *://*.jkzh.net/*
 *://*.jnw.cc/*
 *://*.joecomp.com/*
+*://*.joyoshare.com/*
 *://*.jqgcs123.com/*
 *://*.juejin.cn/s/*
 *://*.jugomobile.com/*
@@ -320,6 +327,7 @@
 *://*.libhunt.com/*
 *://*.licenseapps.com/*
 *://*.liliang.info/*
+*://*.linuxpack.net/*
 *://*.linuxprobe.com/*
 *://*.liupan.org/*
 *://*.liwu.bi/*
@@ -336,6 +344,7 @@
 *://*.mattkaydiary.com/*
 *://*.measart.com/*
 *://*.meetthebookworld.com/*
+*://*.mefj.com.cn/*
 *://*.megavolt67.ru/*
 *://*.meirikeji.com/*
 *://*.metropaintballgames.com/*
@@ -343,6 +352,7 @@
 *://*.mhaohuo.com/*
 *://*.miaook.com/*
 *://*.mississippifaithinaction.org/*
+*://*.mnxcc.com/*
 *://*.mo08.biz/*
 *://*.mobile2day.com/*
 *://*.modb.pro/*
@@ -426,8 +436,10 @@
 *://*.rukomos.ru/*
 *://*.rxadderall.com/*
 *://*.sa123.cc/*
+*://*.safetydetectives.com/*
 *://*.saintlad.com/*
 *://*.sakoba.fr/*
+*://*.saoyu.com/*
 *://*.scpaean.com/*
 *://*.sdxinli.org/*
 *://*.seafastcenter.com/*
@@ -437,6 +449,7 @@
 *://*.shihuishuo.com/*
 *://*.shluqu.cn/*
 *://*.shopwtn.com/*
+*://*.shoujide.com/*
 *://*.shoujishu.com/*
 *://*.showmetech.com.br/*
 *://*.shtaxi.com/*
@@ -482,6 +495,7 @@
 *://*.techdevian.com/*
 *://*.techloris.com/*
 *://*.techonegame.com/*
+*://*.techtarget.com/*
 *://*.tedabg.com/*
 *://*.tenorshare.cn/*
 *://*.tenorshare.com/*
@@ -495,6 +509,7 @@
 *://*.todohealth.com/*
 *://*.tomzx.com/*
 *://*.tongbu.com/*
+*://*.topvpnguides.com/*
 *://*.toutiao.com/keyword/*
 *://*.toutiao.com/search/*
 *://*.toutiao.com/search?keyword=*
@@ -515,6 +530,7 @@
 *://*.tysp.org/*
 *://*.ujjainyoga.com/*
 *://*.uk.com/*
+*://*.ukplanking.com/*
 *://*.ulidc.com/*
 *://*.ultimate-communications.com/*
 *://*.unansea.com/*
@@ -538,6 +554,7 @@
 *://*.vsdiffer.com/*
 *://*.vvfx.cc/*
 *://*.wallmama.com/*
+*://*.wallvpn.com/*
 *://*.wallzhihu.com/*
 *://*.wangluotizi.com/*
 *://*.wanshifu.com/*
@@ -580,6 +597,7 @@
 *://*.xnntw.com/*
 *://*.xuesw.net/*
 *://*.xujun.org/*
+*://*.xunihao.org/*
 *://*.xyjqxi.com/*
 *://*.xykjsqg.com/*
 *://*.xyttt.com/*
